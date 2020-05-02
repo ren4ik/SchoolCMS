@@ -1,0 +1,12 @@
+.idea
+venv
+local_settings.py
+__pycache__/
+*/__pycache__/
+*.py[cod]
+.pyc
+!/static/summernote/
+!/static/ckeditor/
+!/static/admin/
+!/static/rest_framework/
+!/media/
